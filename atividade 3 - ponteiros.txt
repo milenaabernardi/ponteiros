@@ -1,0 +1,7 @@
+A. 1) na linha 4 = 5; na linha 5 = 6422296
+A. 2) na linha 4 = 61ff1c; na linha 5 = 61ff18; na linha 6 = 61ff17
+A. 3) na linha 6 = 55; na linha 7 = 0061FF14; na linha 8 = 55
+B. 1) d
+B. 2) c
+B. 3) e) declara uma variavel para o objeto de um ponteiro
+C. alternativa 5
